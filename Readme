@@ -1,1 +1,12 @@
 
+Global Superstore Data Visualization with Power BI
+This repository showcases a comprehensive data visualization project using Power BI, focusing on the Global Superstore dataset. The Power BI dashboard provides interactive visualizations, enabling users to gain valuable insights and make data-driven decisions.
+
+Dataset
+The dataset used in this project is the Global Superstore dataset, which contains sales data from a fictional global company. It includes information such as sales, customer demographics, product categories, and shipping details. The dataset provides a rich foundation for exploring various aspects of business operations and identifying patterns and trends.
+
+Prerequisites
+To explore the Power BI data visualization dashboard, you need the following:
+
+Power BI Desktop: Install Power BI Desktop, a powerful tool for creating, publishing, and sharing interactive reports and dashboards.
+Global Superstore dataset: Download the Global Superstore dataset from a reliable source, such as Kaggle. Make sure to save the dataset in a compatible format (e.g., CSV, Excel, or JSON).
